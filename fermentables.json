@@ -1,16 +1,5 @@
 [
   {
-    "Grain": "---Select Grain/Fermentable---",
-    "PPG": 0,
-    "Extraction affected by Mash Efficiency?": "n",
-    "Basic Attenuation": 0,
-    "Attenuation Affected by Mash Cond?": "n",
-    "Lovibond": 0,
-    "DP": 0,
-    "pH Type (Base, Wheat, Crystal, Roasted, or 0 for non mashable ingredients)": 0,
-    "Dissolved Gallons per Pound for non mashed/non steeped ingredients": "NA"
-  },
-  {
     "Grain": "2-Row Brewer's Malt, Briess",
     "PPG": 37,
     "Extraction affected by Mash Efficiency?": "y",
